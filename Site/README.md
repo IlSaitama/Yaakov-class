@@ -1,0 +1,3 @@
+# Yaakov-class
+Repository for the web development coursera class
+Can you see me? Such a pain in the ass...
